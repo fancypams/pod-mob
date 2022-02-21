@@ -1,0 +1,7 @@
+{
+  "name": "podMob",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
