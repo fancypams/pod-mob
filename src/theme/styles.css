@@ -1,0 +1,47 @@
+/* Specific podMob stylesheet */
+
+/* Headings */
+.title-large {
+  font-size: 18px;
+}
+ion-label {
+  font-size: 16px;
+}
+ion-text {
+  font-size: 12px;
+  margin: 5px;
+  padding: 0 10px;
+}
+
+/* Form Elements */
+ion-input, ion-textarea, ion-select {
+  border: 1px #efefef solid;
+  border-radius: 5px;
+  box-shadow: 0px 2px 3px #0000000F;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  min-height: 38px;
+  width: 100%;
+  --padding-start: 10px;
+  margin: 5px;
+  font-size: 12px;
+}
+.native-input.sc-ion-input-ios, .native-textarea.sc-ion-textarea-ios {
+  --padding-start: 10px;
+  font-size: 12px;
+}
+ion-button {
+  min-height: 38px;
+  min-width: 160px;
+  font-size: 14px;
+  border-radius: 5px;
+}
+
+
+
+/* Icons */
+.star-rating-default {
+  color: #d9d9d9;
+  font-size: 24px;
+}
+
+

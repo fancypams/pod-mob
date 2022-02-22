@@ -152,6 +152,7 @@ http://ionicframework.com/docs/theming/ */
    * -------------------------------------------
    */
 
+  /* 
   .ios body {
     --ion-background-color: #000000;
     --ion-background-color-rgb: 0,0,0;
@@ -189,6 +190,7 @@ http://ionicframework.com/docs/theming/ */
     --ion-toolbar-background: var(--ion-color-step-150);
     --ion-toolbar-border-color: var(--ion-color-step-250);
   }
+  /*
 
 
   /*
@@ -196,6 +198,7 @@ http://ionicframework.com/docs/theming/ */
    * -------------------------------------------
    */
 
+  /*
   .md body {
     --ion-background-color: #121212;
     --ion-background-color-rgb: 18,18,18;
@@ -233,4 +236,5 @@ http://ionicframework.com/docs/theming/ */
 
     --ion-card-background: #1e1e1e;
   }
+  */
 }
